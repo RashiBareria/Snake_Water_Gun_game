@@ -1,4 +1,4 @@
-# Snake_Water_Gun_game
+# Snake_Water_Gun_Game
 
 ## This is a game that we played in our childhood. Tried to make this game using Python.
 
